@@ -5,4 +5,4 @@ Install .exe file to run the code.
 Upcoming versions soon.
 
 Versions:
-Paint1 - able to paint in one color
+Paint1 - able to paint in one color without any other functions
